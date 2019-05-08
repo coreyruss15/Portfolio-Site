@@ -1,0 +1,4 @@
+# boilerPlate
+basic starting file structure for Umass Dartmouth
+
+In coding my portfolio site, I faced many challenges. I first had a lot of bugs in my code. I worked hard to fix them throughout the process of the project and eventually fixed them all. I also had trouble with my grid system. Lastly, I faced the challenge of uploading this all to Github, which was the worst challenge of them all. From all of these challenges however, I am now more confident in my ability to code. My favorite thing I learned from coding my website was how to organize it in an effective manner to promote myself and my work properly. I did this by closely thinking out the outline and ordering of the headers in my site to make it as easy to look at and to read as possible.
